@@ -111,6 +111,6 @@ Feel free to submit PRs 🛠 or raise issues 🚨. Your contributions are always
 
 ## 👨‍💻 **Author**  
 
-👾 Developed by **g0drlc** | [Telegram](https://t.me/mark_sol_degen)
+👾 Developed by **Kratos** | [Telegram](https://t.me/KratostesBoom)
 
 🌟 **Happy Trading!** 🌟  
